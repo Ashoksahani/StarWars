@@ -1,0 +1,40 @@
+.container{
+   
+    margin: auto;
+    width: 80%;
+    padding: 20px;
+
+}
+h1{
+text-align: center;
+margin-top: 20px;
+}
+.namecontainer{
+    display: flex;
+    margin-left: 300px;
+
+}
+.bestdetails {
+    margin-top: 60px;
+
+}
+.bestdetails div{
+    display: flex;
+    
+
+}
+.bestdetails div h5{
+    margin-top: 2px;
+    width: 80px;
+    padding-right: 2px;
+}
+.bestdetails div span{
+    margin-right:15px ;
+}
+
+.filmdetails{
+    margin-top: 60px;
+    padding: 50px;
+    margin-left: 50px;
+    border-left:1px solid grey ;
+}
